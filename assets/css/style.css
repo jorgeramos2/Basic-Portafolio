@@ -63,6 +63,16 @@ section
   	border-style: solid;
     border-width: 2px;
     border-color: #dddddd;
-    
+}
+.espacio
+{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.linea
+{
+	border-bottom-width: 3px;
+	border-color: #dddddd;
+	border-style: solid;
 
 }
