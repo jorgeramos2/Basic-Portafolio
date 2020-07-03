@@ -1,0 +1,26 @@
+h1 {
+	
+}
+nav 
+{
+	
+}
+.contenedor
+{
+	background-image: url("../images/oriental-tiles.png");
+	width: 100%;
+	float: left;
+	
+}
+section
+{
+	width : 960px;
+	background-color: #ffffff;
+	margin-left: 465px;
+	margin-top: 50px;
+  	border-style: solid;
+    border-width: 2px;
+    border-color: #dddddd;
+    
+
+}
