@@ -1,27 +1,27 @@
 h1 {
+
 	margin-bottom: 0px;
-
-
+	margin-right: 108px;
+	display: inline-block;
+	background-color:  #4aaaa5;
+	color: white;
+	padding: 20px;
 }
 nav
 {
 
 }
-.nombre
+.cont
 {
-	margin-right: 100px;
-	background-color: red;	
-}
-.links
-{
-	margin-left: 400px;
-	background-color: blue;
+	text-align: center;
+	margin-right: 138px;
 }
 a
 {
 	text-decoration: none;
-	float:left;
+	float:right;
 	margin-right: 15px;
+	margin-top: 30px;
 }
 a:link {
   color: #777777;
@@ -48,8 +48,8 @@ nav
 }
 .contenedor
 {
-	margin-top: 10px;
-	background-image: url("../images/oriental-tiles.png");
+	
+	background-image: url("../images/g.png");
 	width: 100%;
 	float: left;
 	
