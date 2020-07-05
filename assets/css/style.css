@@ -7,6 +7,7 @@ h1 {
 	color: white;
 	padding: 20px;
 }
+
 nav
 {
 
@@ -14,10 +15,11 @@ nav
 .cont
 {
 	text-align: center;
-	margin-right: 138px;
+	margin-right: 500px;
 }
 a
 {
+
 	text-decoration: none;
 	float:right;
 	margin-right: 15px;
@@ -129,52 +131,7 @@ h2
 	flex-direction: row;
 	flex-wrap: wrap;
 }
-.img1
-{
-	background-image: url("../images/3.jpg");
-	height: 250px;
-	width: 250px;
-	background-size: cover;
-	margin-right: 20px;
-	margin-bottom: 20px;
-}
-.img2
-{
-	background-image: url("../images/3.jpg");
-	height: 250px;
-	width: 250px;
-	background-size: cover;
-	margin-right: 20px;
-	margin-bottom: 20px;
-}
-.img3
-{
-	background-image: url("../images/3.jpg");
-	height: 250px;
-	width: 250px;
-	background-size: cover;
-	margin-right: 20px;
-	margin-bottom: 20px;
-}
-.img4
-{
-	background-image: url("../images/3.jpg");
-	height: 250px;
-	width: 250px;
-	background-size: cover;
-	margin-right: 20px;
-	margin-bottom: 20px;
-}
-.img5
-{
-	background-image: url("../images/3.jpg");
-	height: 250px;
-	width: 250px;
-	background-size: cover;
-	margin-right: 20px;
-	margin-bottom: 20px;
-}
-.img6
+.imgPort
 {
 	background-image: url("../images/3.jpg");
 	height: 250px;
