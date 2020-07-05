@@ -74,5 +74,112 @@ section
 	border-bottom-width: 3px;
 	border-color: #dddddd;
 	border-style: solid;
+	margin-bottom: 15px;
 
+}
+.profile 
+{
+	background-image: url("../images/1.jpg");
+	height: 250px;
+	width: 250px;
+	background-size: cover;
+	margin-top: 20px;
+	
+}
+
+p
+{
+	float: right;
+}
+input 
+{
+	margin-top: 10px;
+	
+}
+input[type=text] 
+{
+	margin-left: 5px;
+	border-color: #dddddd;
+	width :100%;
+ 
+}
+input[type=submit] 
+{
+	background-color: #4aaaa5; 
+	padding: 10px;
+	color: white;
+
+}
+input[id="msg"]
+{
+	height: 100px;
+}
+label
+{
+	color: #777777;
+
+}
+h2
+{
+	color: #4aaaa5;
+}
+.container
+{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.img1
+{
+	background-image: url("../images/3.jpg");
+	height: 250px;
+	width: 250px;
+	background-size: cover;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+.img2
+{
+	background-image: url("../images/3.jpg");
+	height: 250px;
+	width: 250px;
+	background-size: cover;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+.img3
+{
+	background-image: url("../images/3.jpg");
+	height: 250px;
+	width: 250px;
+	background-size: cover;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+.img4
+{
+	background-image: url("../images/3.jpg");
+	height: 250px;
+	width: 250px;
+	background-size: cover;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+.img5
+{
+	background-image: url("../images/3.jpg");
+	height: 250px;
+	width: 250px;
+	background-size: cover;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+.img6
+{
+	background-image: url("../images/3.jpg");
+	height: 250px;
+	width: 250px;
+	background-size: cover;
+	margin-right: 20px;
+	margin-bottom: 20px;
 }
