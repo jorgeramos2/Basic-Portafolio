@@ -79,20 +79,9 @@ section
 	margin-bottom: 15px;
 
 }
-.profile 
-{
-	background-image: url("../images/1.jpg");
-	height: 250px;
-	width: 250px;
-	background-size: cover;
-	margin-top: 20px;
-	
-}
 
-p
-{
-	float: right;
-}
+
+
 input 
 {
 	margin-top: 10px;
@@ -133,10 +122,59 @@ h2
 }
 .imgPort
 {
-	background-image: url("../images/3.jpg");
 	height: 250px;
 	width: 250px;
 	background-size: cover;
 	margin-right: 20px;
 	margin-bottom: 20px;
+}
+.profile 
+{
+	background-image: url("../images/1.jpg");
+	height: 250px;
+	width: 250px;
+	background-size: cover;
+	margin-top: 20px;
+
+	
+}
+p
+{
+	text-align: left;
+	font-family: 'Arial';
+	color: #777777;
+	line-height: 30px;
+}
+.overlay {
+  position: absolute;
+  margin-top: 30px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 250px;
+	width: 250px;
+  opacity: 0;
+  transition: .5s ease;
+  background-color:  #4aaaa5;
+}
+.contain {
+  position: relative;
+
+ 
+}
+.contain:hover .overlay {
+  opacity: .8;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
 }
